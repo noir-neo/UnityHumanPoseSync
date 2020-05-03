@@ -1,0 +1,15 @@
+{
+    "name": "UnityHumanPoseSyncSample",
+    "references": [
+        "GUID:b195afe98bf594c1d9d64cfcdd4a6f69"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
